@@ -20,4 +20,4 @@
 - [haosj](https://github.com/karnhao/haosj) node library เป็นฐานไลบรารี่ เขียนด้วยภาษา typescript สำหรับไว้จัดการข้อมูลวิชาเรียน
 - [HaoWidget](https://github.com/karnhao/HaoWidget) Widget ในระบบปฏิบัติการ iOS แสดงวิชาปัจจุบันและข้อมูลอื่นๆที่เกี่ยวข้อง และสามารถเข้าลิงค์ห้องเรียนผ่านทางนี้ได้เลย 
 - [HaoDiscordBot](https://github.com/karnhao/HaoDiscordBot) Bot ใน โปรแกรม discord. Bot นี้สามารถเก็บข้อมูลวิชาแล้วแสดงลายละเอียดวิชาผ่านคำสั่งหรืออัตโนมัติผ่านช่องข้อความใน discord
-- [Melt](https://github.com/karnhao/Melt) ***(กำลังพัฒนา)*** กิ่งแยกออกมาจากโปรเจคหลัก พัฒนาเกมแนว Visual Novel โดยฉันเป็นหนุึ่งในทีมพัฒนา
+- [Melt](https://github.com/karnhao/Melt) ***(กำลังพัฒนา)*** กิ่งแยกออกมาจากโปรเจคหลัก พัฒนาเกมแนว Visual Novel โดยฉันเป็นหนึ่งในทีมพัฒนา
