@@ -1,5 +1,5 @@
 # ผลงานของฉัน
-แหล่งรวบรวมผลงานต่างๆของ[ผม](https://github.com/karnhao/karnhao) กดที่ชื่อผลงาน(ข้อความสีฟ้า) เพื่อเข้าไปดูรายละเอียด
+แหล่งรวบรวมผลงานต่างๆของ[ผม](https://github.com/karnhao) กดที่ชื่อผลงาน(ข้อความสีฟ้า) เพื่อเข้าไปดูรายละเอียด
 
 ## [HaoWidget](https://github.com/karnhao/HaoWidget)
 Widget แสดงวิชาใน iOS
