@@ -5,6 +5,8 @@
   </p>
 </div>
 
+![](https://raw.githubusercontent.com/karnhao/karnhao/main/profile-summary-card-output/dracula/0-profile-details.svg)
+
 > กระต่ายเป็นสัตว์เลี้ยงลูกด้วยน้ำนมที่น่ารักมาก แล้วก็น่ากินด้วย
 
 ## เกี่ยวกับฉัน
