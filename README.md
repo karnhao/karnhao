@@ -1,4 +1,5 @@
 # Profile
+> *Change languages to : Thai(currently) , [English](https://github.com/karnhao/karnhao/blob/main/README.en.md)*
 <div>
   <p>
     <img src="https://raw.githubusercontent.com/karnhao/karnhao/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="" width=100% align=center>
