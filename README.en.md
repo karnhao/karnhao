@@ -30,6 +30,6 @@ I'm Mr. Sittipat Tepsuta, 18 years old, male, human, living in Thailand, Asia, P
 You can view my work on my profile or you can use the link below.
 
 - [haosj](https://github.com/karnhao/haosj) A node package which written in Typescript for managing subject information.
-- [HaoWidget](https://github.com/karnhao/HaoWidget) Widgets in the iOS operating system display current subjects and other related information. and can access the classroom link through this
+- [HaoWidget](https://github.com/karnhao/HaoWidget) Widgets in the iOS operating system display current subjects and other related information. and can access the classroom link through this.
 - [HaoDiscordBot](https://github.com/karnhao/HaoDiscordBot) A discord bot that can store subject data and display subject details via command or automatically in discord.
 - [Melt](https://github.com/karnhao/Melt) ***(developing)*** Forking out from the main project, developing Visual Novel games with me on the development team.
