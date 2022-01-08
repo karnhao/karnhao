@@ -1,5 +1,5 @@
 # Profile
-> *Change languages to : [Thai](https://github.com/karnhao/karnhao/blob/main/README.md) , English(currently)*
+> *Change languages to : [Thai](https://github.com/karnhao/karnhao/blob/main/README.md) , English(currently)*.
 <div>
   <p>
     <img src="https://raw.githubusercontent.com/karnhao/karnhao/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="" width=100% align=center>
@@ -24,7 +24,7 @@ I'm Mr. Sittipat Tepsuta, 18 years old, male, human, living in Thailand, Asia, P
  - 🏫 I am currently studying at Sarawittaya School.
  - 🌱 I am planning to study at university.
  - 📫 I live in Thailand.
- - 📖 My favorite book is [Watership Down](https://en.wikipedia.org/wiki/Watership_Down)
+ - 📖 My favorite book is [Watership Down](https://en.wikipedia.org/wiki/Watership_Down).
 
 ## My works/projects
 You can view my work on my profile or you can use the link below.
