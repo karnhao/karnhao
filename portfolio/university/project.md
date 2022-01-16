@@ -4,11 +4,11 @@
 ## [HaoWidget](https://github.com/karnhao/HaoWidget)
 Widget แสดงวิชาใน iOS
 
-## [HaoDiscordBot](https://github.com/karnhao/HaoDiscordBot)
-บอทในโปรแกรมแชท discord เกี่ยวกับวิชาเรียน
-
 ## [Haosj](https://github.com/karnhao/haosj)
 node library เขียนด้วยภาษา typescript เป็นฐานให้กับผลงานอื่นๆ
+
+## [HaoDiscordBot](https://github.com/karnhao/HaoDiscordBot)
+บอทในโปรแกรมแชท discord เกี่ยวกับวิชาเรียน
 
 ## [HaoSort](https://dev.bukkit.org/projects/haosort)
 แสดงกระบวนการจัดเรียงข้อมูล (Sorting Algorithm) ในเกม Minecraft ให้เห็นภาพได้บนแท่งสีและเสียงโดยสีและเสียงจะแปรผันตามค่าของตัวแปร
