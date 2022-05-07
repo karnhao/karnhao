@@ -28,7 +28,7 @@
 คุณสามารถมาดูงานของฉันได้ที่โปรไฟล์ของฉันหรือจะเข้าทางลิงค์ตามนี้ก็ได้
 
 - [HaoVSort](https://github.com/karnhao/HaoVSort) Sorting algorithm visualizer ในเกม Minecraft เป็น BukkitPlugin plugin นี้จะแสดง algorithm การจัดเรียงข้อมูลในรูปแบบสีและเสียง
-- [haosj](https://github.com/karnhao/haosj) node library เป็นฐานไลบรารี่ เขียนด้วยภาษา typescript สำหรับไว้จัดการข้อมูลวิชาเรียน
+- [HaoSj](https://github.com/karnhao/haosj) node library เป็นฐานไลบรารี่ เขียนด้วยภาษา typescript สำหรับไว้จัดการข้อมูลวิชาเรียน
 - [HaoWidget](https://github.com/karnhao/HaoWidget) Widget ในระบบปฏิบัติการ iOS แสดงวิชาปัจจุบันและข้อมูลอื่นๆที่เกี่ยวข้อง และสามารถเข้าลิงค์ห้องเรียนผ่านทางนี้ได้เลย 
 - [HaoDiscordBot](https://github.com/karnhao/HaoDiscordBot) Bot ใน โปรแกรม discord. Bot นี้สามารถเก็บข้อมูลวิชาแล้วแสดงลายละเอียดวิชาผ่านคำสั่งหรืออัตโนมัติผ่านช่องข้อความใน discord
 - [Melt](https://github.com/karnhao/Melt) ***(กำลังพัฒนา)*** กิ่งแยกออกมาจากโปรเจคหลัก พัฒนาเกมแนว Visual Novel โดยฉันเป็นหนึ่งในทีมพัฒนา
