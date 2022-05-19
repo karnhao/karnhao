@@ -20,9 +20,9 @@
 
 ## About me
 I'm Mr. Sittipat Tepsuta, 18 years old, male, human, living in Thailand, Asia, Planet Earth, Solar System, Milky Way Galaxy.
- - 👀 I am interest in computer systems and like to programming using logic and mathematics.
- - 🏫 Currently, I just graduated from Sarawittaya School.
- - 🌱 I am planning to go to study at university.
+ - 👀 I like programming and math.
+ - 🏫 I graduated from [Sarawittaya School](https://en.wikipedia.org/wiki/Sarawittaya_School).
+ - 🌱 I'm going to study at [Kasetsart University](https://en.wikipedia.org/wiki/Kasetsart_University).
  - 📫 I live in Thailand.
  - 📖 My favorite book is [Watership Down](https://en.wikipedia.org/wiki/Watership_Down).
 
