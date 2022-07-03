@@ -27,6 +27,7 @@
 ## งานของฉัน
 คุณสามารถมาดูงานของฉันได้ที่โปรไฟล์ของฉันหรือจะเข้าทางลิงค์ตามนี้ก็ได้
 
+- [HaoKUWidget](https://github.com/karnhao/haokuwidget) Widget ในระบบปฏิบัติการ iOS แสดงวิชาปัจจุบันและข้อมูลอื่นๆที่เกี่ยวข้อง (ใช้สำหรับมหาวิทยาลัยเกษตรศาสตร์)
 - [HaoVSort](https://github.com/karnhao/HaoVSort) Sorting algorithm visualizer ในเกม Minecraft เป็น BukkitPlugin plugin นี้จะแสดง algorithm การจัดเรียงข้อมูลในรูปแบบสีและเสียง
 - [HaoSj](https://github.com/karnhao/haosj) node library เป็นฐานไลบรารี่ เขียนด้วยภาษา typescript สำหรับไว้จัดการข้อมูลวิชาเรียน
 - [HaoWidget](https://github.com/karnhao/HaoWidget) Widget ในระบบปฏิบัติการ iOS แสดงวิชาปัจจุบันและข้อมูลอื่นๆที่เกี่ยวข้อง และสามารถเข้าลิงค์ห้องเรียนผ่านทางนี้ได้เลย 
