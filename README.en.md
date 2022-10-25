@@ -28,6 +28,7 @@ I'm Mr. Sittipat Tepsuta, 18 years old, male, human, living in Thailand, Asia, P
 
 ## My works/projects
 You can view my work on my profile or you can use the link below.
+- [HaoKUWidget](https://github.com/karnhao/haokuwidget) Widgets in the iOS operating system display current subjects and other related information. (This version is exclusively for Kasetsart University Only)
 - [HaoVSort](https://github.com/karnhao/HaoVSort) Sorting algorithm visualizer in Minecraft. That is a BukkitPlugin plugin that displays sorting algorithm in color and sound formats just using one command. For example : /sort karnhao selection 2 100.
 - [HaoSj](https://github.com/karnhao/haosj) A node package which written in Typescript for managing subject information.
 - [HaoWidget](https://github.com/karnhao/HaoWidget) Widgets in the iOS operating system display current subjects and other related information. and can access the classroom link through this.
