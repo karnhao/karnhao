@@ -19,7 +19,7 @@
 
 
 ## About me
-I'm Mr. Sittipat Tepsuta, 22 years old, male, human, living in Thailand, Asia, Planet Earth, Solar System, Milky Way Galaxy.
+I'm Mr. Sittipat Tapsutar, 22 years old, male, human, living in Thailand, Asia, Planet Earth, Solar System, Milky Way Galaxy.
  - 👀 I like programming and math.
  - 🏫 I graduated from [Sarawittaya School](https://en.wikipedia.org/wiki/Sarawittaya_School).
  - 🌱 I am studying in [Kasetsart University](https://en.wikipedia.org/wiki/Kasetsart_University), Faculty of Science, Computer Science.
