@@ -5,8 +5,6 @@
     <img src="https://raw.githubusercontent.com/karnhao/karnhao/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="" width=100% align=center>
   </p>
 </div>
-
-> *[กระต่าย](https://en.wikipedia.org/wiki/Rabbit)เป็นสัตว์เลี้ยงลูกด้วยน้ำนมกลมๆ และมีหูที่ใหญ่*
 <hr>
 
 <div>
